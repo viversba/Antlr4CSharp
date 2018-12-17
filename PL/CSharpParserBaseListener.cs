@@ -10,14 +10,14 @@
 
 // Generated from CSharpParser.g4 by ANTLR 4.7.1
 
-//// Unreachable code detected
-//#pragma warning disable 0162
-//// The variable '...' is assigned but its value is never used
-//#pragma warning disable 0219
-//// Missing XML comment for publicly visible type or member '...'
-//#pragma warning disable 1591
-//// Ambiguous reference in cref attribute
-//#pragma warning disable 419
+// Unreachable code detected
+#pragma warning disable 0162
+// The variable '...' is assigned but its value is never used
+#pragma warning disable 0219
+// Missing XML comment for publicly visible type or member '...'
+#pragma warning disable 1591
+// Ambiguous reference in cref attribute
+#pragma warning disable 419
 
 using Antlr4.Runtime.Misc;
 using IErrorNode = Antlr4.Runtime.Tree.IErrorNode;
